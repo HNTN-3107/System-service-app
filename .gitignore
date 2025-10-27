@@ -1,0 +1,15 @@
+# Built files
+app/build/
+app/.cxx/
+app/*.apk
+build/
+.gradle/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
